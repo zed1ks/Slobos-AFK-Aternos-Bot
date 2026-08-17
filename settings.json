@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "friendlysmp-aG2c.aternos.me",
-    "port": 42016,
-    "version": "",
+    "ip": "zedtig.aternos.me",
+    "port": 45937,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
